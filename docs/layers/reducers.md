@@ -2,46 +2,46 @@
 
 This layer is included reducers of entities. [Reducers](http://redux.js.org/docs/basics/Reducers.html) specify how the application's state changes in response.
 
-## authorizeReducer
+## authorizeReducer.jsx
 
 This reducer is responsible to change user authorization state on reducer.
 
-## circleReducer
+## circleReducer.jsx
 
 This reducer is responsible to change user's circle state on reducer, insert/update/delete circle and insert/update/delete follower/following.
 
-## commentReducer
+## commentReducer.jsx
 
 This reducer is responsible to change user comment state on reducer, insert/update/delete comment.
 
-## fileReducer
+## fileReducer.jsx
 
 This reducer is responsible to change files state on reducer.
 
-## globalReducer
+## globalReducer.jsx
 
 This reducer is responsible to change global states on reducer. Like changing loding visibility or notification text.
 
-## imageGalleryReducer
+## imageGalleryReducer.jsx
 
 This reducer is responsible to change images state on reducer, insert/update/delete image and cache image's url.
 
-## imageUploaderReducer
+## imageUploaderReducer.jsx
 
 This reducer is responsible to change user upload state on reducer.
 
-## notifyReducer
+## notifyReducer.jsx
 
 This reducer is responsible to change user notification state on reducer, insert/update/delete notificaion and change seen state for notification.
 
-## postReducer
+## postReducer.jsx
 
 This reducer is responsible to change user post state on reducer, insert/update/delete post.
 
-## userReducer
+## userReducer.jsx
 
 This reducer is responsible to change user information state on reducer, insert/update/delete user information.
 
-## voteReducer
+## voteReducer.jsx
 
 This reducer is responsible to change user vote state on reducer. insert/update/delete vote.

@@ -1,1 +1,0 @@
-export { FileResult } from './fileResult'
